@@ -1,0 +1,6 @@
+- tab: "volkomenkwadraten"
+  testcases:
+    - stdin: "5\n7"
+      stdout: "[25, 36, 49]"
+    - stdin: "0\n3"
+      stdout: "[0, 1, 4, 9]"
