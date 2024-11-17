@@ -5,7 +5,6 @@ Schrijf een programma waarbij de gebruiker twee gehele getallen kan ingeven:
 Het programma vormt een lijst met de kwadraten van alle getallen in dit gesloten interval.  
 Het programma drukt deze lijst af.
 
-
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>

@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "en": "Squares of integers in a range",
+      "en": "Squares of integers in a given range",
       "nl": "Volkomen kwadraten van een interval"
     }
   },

@@ -1,5 +1,5 @@
-ondergrens = int(input('Geef het laagste grondtal: '))
-bovengrens = int(input('Geef het hoogste grondtal: '))
+ondergrens = int(input('Geef het laagste grondtal:'))
+bovengrens = int(input('Geef het hoogste grondtal:'))
 
 vklist = []
 for grond in range(ondergrens, bovengrens+1):
