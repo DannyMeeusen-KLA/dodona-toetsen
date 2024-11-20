@@ -1,4 +1,4 @@
-- tab: "aantaleveninlijstv1"
+- tab: "verdubbelofhalveer"
   testcases:
     - stdin: "5\n2\n7\n15\n53\n102"
       stdout: "[1, 14, 30, 106, 51]"
