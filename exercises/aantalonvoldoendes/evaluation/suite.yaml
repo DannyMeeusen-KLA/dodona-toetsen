@@ -1,0 +1,10 @@
+- tab: "aantaleveninlijstv1"
+  testcases:
+    - stdin: "20\n2\n7\n15\n13\n12\n20\n9\n10\n13\n12"
+      stdout: "3"
+    - stdin: "10\n4\n9\n8\n7\n3\n3\n5\n4\n5\n10"
+      stdout: "4"
+    - stdin: "100\n32\n30\n22\n12\n28\n49\n50\n48\n39\n45"
+      stdout: "9"
+    - stdin: "30\n15\n20\n16\n18\n22\n24\n20\n16\n18\n28"
+      stdout: "0"
