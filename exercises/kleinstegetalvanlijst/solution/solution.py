@@ -5,7 +5,7 @@ strlijst = zin.split()
 kleinste = int(strlijst[0])
 aantalinlijst = len(strlijst)
 
-for tel in range(1, aantalinlijst-1, 1):
+for tel in range(1, aantalinlijst, 1):
     getal = int(strlijst[tel])
     if getal < kleinste:
         kleinste = getal

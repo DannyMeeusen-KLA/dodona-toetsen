@@ -1,4 +1,4 @@
-- tab: "kleinstegetalvanlijst, v1"
+- tab: "kleinstegetalvanlijst, v2"
   testcases:
     - stdin: "2 8 7 16 -5 9"
       stdout: "-5"
@@ -10,3 +10,5 @@
       stdout: "-1"
     - stdin: "25 18 9 8 1 -1"
       stdout: "-1"
+    - stdin: ""
+      stdout: "Er is geen getal in de lijst."
