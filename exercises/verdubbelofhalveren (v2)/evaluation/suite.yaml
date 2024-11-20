@@ -1,0 +1,12 @@
+- tab: "halverenofverdubbelenv2"
+  testcases:
+    - stdin: "4 6 7 58 13 12"
+      stdout: "[2, 3, 14, 29, 26, 6]"
+    - stdin: "-6 -9 5 48 23 -7 0 -2 3"
+      stdout: "[-3, -18, 10, 24, 46, -14, 0, -1, 6]"
+    - stdin: "6"
+      stdout: "[3]"
+    - stdin: "5"
+      stdout: "[10]"
+    - stdin: "37 94 13 61 -61 -54"
+      stdout: "[74, 47, 26, 122, -122, -27]"
