@@ -1,0 +1,8 @@
+- tab: "hoekgroottes3hoek"
+  testcases:
+    - stdin: "65\n24"
+      stdout: "De derde hoek is een stompe hoek van 91 graden."
+    - stdin: "60\n30"
+      stdout: "De derde hoek is een rechte hoek."
+    - stdin: "54\n37"
+      stdout: "De derde hoek is een scherpe hoek van 89 graden."
