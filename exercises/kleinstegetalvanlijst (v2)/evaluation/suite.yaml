@@ -10,5 +10,5 @@
       stdout: "-1"
     - stdin: "25 18 9 8 1 -1"
       stdout: "-1"
-    - stdin: ""
+    - stdin: " "
       stdout: "Er is geen getal in de lijst."
