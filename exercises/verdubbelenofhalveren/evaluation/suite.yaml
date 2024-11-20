@@ -1,0 +1,12 @@
+- tab: "aantaleveninlijstv1"
+  testcases:
+    - stdin: "5\n2\n7\n15\n53\n102"
+      stdout: "[1, 14, 30, 106, 51]"
+    - stdin: "1\n3"
+      stdout: "[6]"
+    - stdin: "1\n32"
+      stdout: "[16]"
+    - stdin: "9\n-2\n74\n-14\n534\n102\n10204\n0\n-14\n18"
+      stdout: "[-1, 37, -7, 267, 51, 5102, 0, -7, 9]"
+    - stdin: "2\n-21\n-741"
+      stdout: "[-42, -1482]"

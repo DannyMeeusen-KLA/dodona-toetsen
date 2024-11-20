@@ -8,4 +8,4 @@ if hoek3 < 90:
 elif hoek3 == 90:
     print ('De derde hoek is een rechte hoek.')
 else:
-    print ('De derde hoek is een stompe hoek van', hoek3, 'graden.)
+    print ('De derde hoek is een stompe hoek van', hoek3, 'graden.')
