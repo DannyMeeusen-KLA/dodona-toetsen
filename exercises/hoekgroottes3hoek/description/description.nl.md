@@ -5,6 +5,8 @@ Het programma berekent daarna de grootte van de derde hoek:
 - als de hoek groter dan 90° is, dan verschijnt de zin: 'De derde hoek is een stompe hoek van *n* graden.'  
 (Daarbij is *n* de correcte hoekgrootte)
 
+Zoals je kan zien in de voorbeelden, dien je bij ingave van de twee hoekgroottes het graden-teken (°)  niet op te geven.
+
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>
