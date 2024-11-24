@@ -5,6 +5,8 @@ Het programma geeft beide kinderen de kans om in te vullen hoeveel euro er in hu
 - *De kinderen hebben n euro tekort.* (als er, samengeteld, minder geld in de spaarpotten zit dan de prijs van het cadeautje)  
   
 Bekijk de voorbeelden voor meer info.  
+Mogelijk zal je de absolute waarde van een getal willen berekenen. Dat doe je als volgt:  
+*getal = abs(getal)*  
 
 ### Voorbeeld
 

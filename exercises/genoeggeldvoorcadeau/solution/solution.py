@@ -11,4 +11,5 @@ if saldo == 0:
 elif saldo > 0:
     print ('De kinderen hebben', saldo, 'euro over.')
 else:
+    saldo = abs(saldo)
     print ('De kinderen hebben', saldo, 'euro tekort.')
