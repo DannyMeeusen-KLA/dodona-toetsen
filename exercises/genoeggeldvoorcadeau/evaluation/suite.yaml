@@ -1,0 +1,12 @@
+- tab: "genoeggeld"
+  testcases:
+    - stdin: "54\n45"
+      stdout: "De kinderen hebben net genoeg geld."
+    - stdin: "32\n77"
+      stdout: "De kinderen hebben 10 euro over."
+    - stdin: "48\n48"
+      stdout: "De kinderen hebben 3 euro tekort."
+    - stdin: "0\n98"
+      stdout: "De kinderen hebben 1 euro tekort."
+    - stdin: "100\n0"
+      stdout: "De kinderen hebben 1 euro over."
