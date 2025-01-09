@@ -12,3 +12,5 @@
       stdout: "62 64 66 68 70 72 74 "
     - stdin: "-35\n8"
       stdout: "-34 -32 -30 -28 -26 -24 -22 -20 -18 -16 -14 -12 -10 -8 -6 -4 -2 0 2 4 6 8 "
+    - stdin: "98\n2"
+      stdout: "De kinderen hebben 1 euro over."
