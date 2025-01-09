@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Smallest number in a list (version 1)",
-      "nl": "Kleinste getal uit een lijst (versie 1)"
+      "en": "Numbers following another number",
+      "nl": "Getallen volgend op een getal"
     }
   },
   "evaluation": {
