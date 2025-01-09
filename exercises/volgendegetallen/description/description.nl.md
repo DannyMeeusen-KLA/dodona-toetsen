@@ -1,18 +1,40 @@
-Schrijf een programma waarbij de gebruiker op één lijn een rij getallen ingeeft, gescheiden door spaties.  
-
-Het programma haalt uit de lijst het kleinste getal en drukt het af. Je mag er zeker van zijn dat er minstens 1 getal in de rij zit.  
-
+Schrijf een programma waarbij de gebruiker eerst een gehele *beginwaarde* ingeeft,  
+gevolgd door een *aantal* (ook geheel).  
+  
+Het programma vormt, op één lijn, een rij met *aantal* getallen die begint met de *beginwaarde*.  
+Beëindig het programma met *print()* om de lijn af te sluiten.
+ 
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>
->>> 2 8 7 16 -5 9
--5
->>> -8 4 6 4 5 6 12 -9
--9
->>> 54
-54
->>> -1 1 8 9 18 25 36
--1
->>> 25 18 9 8 1 -1
--1
+>>> 12
+>>> 6
+12 13 14 15 16 17 
+>>> 6
+>>> 1
+6
+>>> -1
+>>> 3
+-1 0 1
+>>> 7
+>>> 7
+7 8 9 10 11 12 13
+>>> -9
+>>> 4
+-9 -8 -7 -6 
+>>> 100
+>>> 8
+100 101 102 103 104 105 106 107
 ```
+    - stdin: "12\n6"
+      stdout: "12 13 14 15 16 17 "
+    - stdin: "6\n1"
+      stdout: "6 "
+    - stdin: "-1\n3"
+      stdout: "-1 0 1 "
+    - stdin: "7\n7"
+      stdout: "7 8 9 10 11 12 13 "
+    - stdin: "-9\n4"
+      stdout: "-9 -8 -7 -6 "
+    - stdin: "100\n8"
+      stdout: "100 101 102 103 104 105 106 107 "
