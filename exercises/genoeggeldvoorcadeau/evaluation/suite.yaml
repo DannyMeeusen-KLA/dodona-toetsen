@@ -10,3 +10,5 @@
       stdout: "De kinderen hebben 1 euro tekort."
     - stdin: "100\n0"
       stdout: "De kinderen hebben 1 euro over."
+    - stdin: "98\n2"
+      stdout: "De kinderen hebben 1 euro over."
