@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Even numbers in a range",
-        "nl": "Even getallen in een interval"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "9V2-ma-VBAccHSG3YC8KaeayuGHE698zJFnmGt4jeI8KbtXUxCCDSe-BX5grgSzn",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Even numbers in a range",
+      "nl": "Even getallen in een interval"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "dZ32IK4jdtpF2agMx4VSHfbu8BpQjmiJ7y3IWvkyFrTmCqxd8d8Uu5xmTCcwQPha",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
