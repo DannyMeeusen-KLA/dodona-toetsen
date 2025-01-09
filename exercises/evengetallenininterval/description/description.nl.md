@@ -1,7 +1,7 @@
 De gebruiker krijgt de gelegenheid om de onder- en de bovengrens van een gesloten interval in te geven.  
 Vervolgens drukt het programma alle even getallen uit het interval af.  
-Dit afdrukken gebeurt op één lijn, waarbij de getallen gescheiden zijn door spaties. 
-Sluit je programma af met een print() om de lijn met getallen af te sluiten. 
+Dit afdrukken gebeurt op één lijn, waarbij de getallen gescheiden zijn door spaties.  
+Sluit je programma af met een print() om de lijn met getallen af te sluiten (als je dit vergeet geeft Dodona toch aan dat je oplossing fout is, terwijl de afgedrukte lijnen identiek zijn). 
   
 Bekijk de voorbeelden voor meer info.  
 
