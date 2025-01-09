@@ -1,7 +1,7 @@
 Schrijf een programma waarbij de gebruiker eerst een gehele *beginwaarde* ingeeft,  
 gevolgd door een *aantal* (ook geheel).  
   
-Het programma vormt, op één lijn, een rij met *aantal* getallen die begint met de *beginwaarde*.  
+Het programma vormt, op één lijn, een rij die begint met *beginwaarde*, gevolgd door zijn opeenvolgende *aantal* getallen.  
 Beëindig het programma met *print()* om de lijn af te sluiten.
  
 ### Voorbeeld
