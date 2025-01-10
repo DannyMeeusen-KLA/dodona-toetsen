@@ -1,4 +1,7 @@
 - tab: "evenininterval"
+  config:
+    stdout:
+      ignoreWhitespace: true
   testcases:
     - stdin: "11\n19"
       stdout: "12 14 16 18 "
