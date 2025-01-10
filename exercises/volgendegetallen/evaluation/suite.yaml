@@ -1,4 +1,4 @@
-- tab: "kleinstegetalvanlijst, v1"
+- tab: "volgendegetallen"
   config:
     stdout:
       ignoreWhitespace: true
