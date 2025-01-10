@@ -7,5 +7,4 @@ if richting == '+':
 else:
     for tel in range (begin, begin-10, -1):
         print (tel, end=' ')
-    
-print ()
+

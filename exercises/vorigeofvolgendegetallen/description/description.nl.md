@@ -5,7 +5,6 @@ Het programma drukt een lijst van opeenvolgende getallen af, beginnend met *begi
 - de 9 vorige gehele getallen als er een *-* is ingebracht.  
 
 Het afdrukken gebeurt op één lijn, gescheiden door een spatie.  
-Beëindig het programma met *print()* om de lijn af te sluiten.  
   
 Bekijk de voorbeelden.
 

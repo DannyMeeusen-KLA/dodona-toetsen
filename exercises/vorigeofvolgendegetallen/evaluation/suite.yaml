@@ -1,4 +1,7 @@
 - tab: "vorigeofvolgende"
+  config:
+    stdout:
+      ignoreWhitespace: true
   testcases:
     - stdin: "16\n+"
       stdout: "16 17 18 19 20 21 22 23 24 25 "
