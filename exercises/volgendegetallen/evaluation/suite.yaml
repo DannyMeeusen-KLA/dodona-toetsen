@@ -1,4 +1,7 @@
 - tab: "kleinstegetalvanlijst, v1"
+  config:
+    stdout:
+      ignoreWhitespace: true
   testcases:
     - stdin: "12\n6"
       stdout: "12 13 14 15 16 17 "
