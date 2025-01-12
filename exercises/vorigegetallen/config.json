@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "en": "Numbers previous to another number",
+      "nl": "Getallen voorafgaand aan een getal"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "f8JVPQ8kyfTwTM_8A3Fdz93Fc5tAtYzmDf4fUe3EWeWQXVhk8xtzqJXRtgv2JGf2",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}

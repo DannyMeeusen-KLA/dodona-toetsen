@@ -1,0 +1,17 @@
+- tab: "vorigegetallen"
+  config:
+    stdout:
+      ignoreWhitespace: true
+  testcases:
+    - stdin: "12\n6"
+      stdout: "12 11 10 9 8 7 "
+    - stdin: "6\n1"
+      stdout: "6 "
+    - stdin: "-1\n3"
+      stdout: "-1 -2 -3 "
+    - stdin: "7\n7"
+      stdout: "7 6 5 4 3 2 1 "
+    - stdin: "-9\n4"
+      stdout: "-9 -10 -11 -12 "
+    - stdin: "100\n8"
+      stdout: "100 99 98 97 96 95 94 93 "

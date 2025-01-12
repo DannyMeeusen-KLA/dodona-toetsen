@@ -1,5 +1,7 @@
-De gebruiker krijgt de gelegenheid om de onder- en de bovengrens van een gesloten interval in te geven.  
-Vervolgens drukt het programma alle even getallen uit het interval af.  
+De gebruiker krijgt de gelegenheid om twee getallen in te geven:  
+- de ondergrens van een gesloten interval, en 
+- de bovengrens van een datzelfde gesloten interval.  
+Vervolgens drukt het programma alle <u>even</u> getallen uit het interval af.  
 Dit afdrukken gebeurt op één lijn, waarbij de getallen gescheiden zijn door spaties.  
   
 Bekijk de voorbeelden voor meer info.  

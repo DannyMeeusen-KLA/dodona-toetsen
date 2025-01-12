@@ -1,11 +1,12 @@
-Schrijf een programma waarbij de gebruiker eerst een *beginwaarde* ingeeft en dan een *+* of een *-* .  
+Schrijf een programma waarbij de gebruiker twee waarden ingeeft:  
+- eerst een geheel getal als *beginwaarde* ,  
+- op de volgende lijn een *+* of een *-* .  
 
 Het programma drukt een lijst van opeenvolgende getallen af, beginnend met *beginwaarde* en gevolgd door  
 - de 9 volgende gehele getallen als er een *+* is ingebracht,  
 - de 9 vorige gehele getallen als er een *-* is ingebracht.  
 
 Het afdrukken gebeurt op één lijn, gescheiden door een spatie.  
-  
 Bekijk de voorbeelden.
 
 ### Voorbeeld
