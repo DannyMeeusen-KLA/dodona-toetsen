@@ -3,6 +3,7 @@ Schrijf een programma waarbij de gebruiker twee getallen ingeeft:
 - op de volgende lijn een *aantal* (ook geheel).  
   
 Het programma vormt, op één lijn, een rij die begint met *beginwaarde*, gevolgd door zijn opeenvolgende *aantal* getallen.  
+Bekijk de voorbeelden.  
  
 ### Voorbeeld
 
