@@ -3,7 +3,9 @@ Schrijf een programma waarbij de gebruiker twee getallen ingeeft:
 - op de volgende lijn een *aantal* (ook geheel).  
   
 Het programma vormt, op één lijn, een rij die begint met *beginwaarde*, gevolgd door zijn *aantal* gehele voorgangers.  
-Bekijk de voorbeelden.  
+Deze opeenvolgende getallen worden gescheiden door een spatie.  
+  
+Bekijk zeker de voorbeelden.  
  
 ### Voorbeeld
 
