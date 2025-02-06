@@ -1,4 +1,4 @@
-Je krijgt een lijst cadeau met de getallen van 1 tot en met 19, voluit geschreven.  
+Je krijgt een lijst cadeau met de getallen van 1 tot en met 20, voluit geschreven.  
 Vraag de gebruiker naar een getal tussen 1 en 9.  
 Het programma toont alle getallen uit de lijst met een lengte gelijk aan het ingevoerde getal.  
    

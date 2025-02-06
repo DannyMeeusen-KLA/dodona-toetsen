@@ -16,7 +16,7 @@
     - stdin: "6"
       stdout: "twaalf "
     - stdin: "7"
-      stdout: "dertien zestien "
+      stdout: "dertien zestien twintig "
     - stdin: "8"
       stdout: "veertien vijftien achttien "
     - stdin: "9"
