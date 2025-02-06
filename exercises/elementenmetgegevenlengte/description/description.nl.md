@@ -5,7 +5,7 @@ Het programma toont alle getallen uit de lijst met een lengte gelijk aan het ing
 Tip: om de lengte van een string te berekenen: gebruik de functie len().  
 Voorbeeld: len("leerling") geeft als waarde 8 terug, dit is het aantal letters in het woord "leerling"  
   
-Je zal in deze oefening een for en een if moeten gebruiken.  
+Je zal in deze oefening een *for* en een *if* moeten gebruiken.  
 
 ### Voorbeeld 1
 
