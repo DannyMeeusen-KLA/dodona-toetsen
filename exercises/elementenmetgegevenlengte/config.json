@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Get words with a given length",
+      "nl": "Zoek woorden met een gegeven lengte"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "fevzG8TjAYRbMGEvxNen6EEGxhVZB8wczU55yjIDhd3HaVwg5eaBXEAEYW_SCW8b",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
