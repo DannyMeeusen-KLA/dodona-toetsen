@@ -1,0 +1,12 @@
+- tab: "even of oneven cijfers"
+  testcases:
+    - stdin: "27"
+      stdout: "EVEN EN ONEVEN"
+    - stdin: "30"
+      stdout: "BEIDEN EVEN"
+    - stdin: "19"
+      stdout: "BEIDEN ONEVEN"
+    - stdin: "0\n31"
+      stdout: "BEIDEN ONEVEN"
+    - stdin: "100\n87"
+      stdout: "EVEN EN ONEVEN"
