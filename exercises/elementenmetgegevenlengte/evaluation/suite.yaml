@@ -1,4 +1,7 @@
 - tab: "basis while, 1"
+  config:
+    stdout:
+      ignoreWhitespace: true
   testcases:
     - stdin: "1"
       stdout: ""
