@@ -2,7 +2,7 @@
   testcases:
     - stdin: "27"
       stdout: "EVEN EN ONEVEN"
-    - stdin: "30"
+    - stdin: "60"
       stdout: "BEIDEN EVEN"
     - stdin: "19"
       stdout: "BEIDEN ONEVEN"
