@@ -4,7 +4,7 @@ Bepaal van beide cijfers van het getal of ze even of oneven zijn:
 - zijn ze beiden oneven, druk dan de tekst **BEIDEN ONEVEN** af.  
 - is één van de cijfers even en het andere oneven, druk dan de tekst  **EVEN EN ONEVEN** af.  
   
-Je zal in dit programma gebruik moeten maken van een *if*  
+Je zal in dit programma gebruik moeten maken van een *while* (voor de invoercontrole) en een *if*  
 
 ### Voorbeeld 1
 
