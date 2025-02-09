@@ -3,7 +3,7 @@
     - stdin: "3"
       stdout: "Tussen 1 en 2"
     - stdin: "7"
-      stdout: "Tussen 1 en 2"
+      stdout: "Tussen 2 en 3"
     - stdin: "105"
       stdout: "Tussen 10 en 11"
     - stdin: "135"
