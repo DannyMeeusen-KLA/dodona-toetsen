@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Whole numbers between a square and its next square",
+      "nl": "Gehele getallen tussen twee opeenvolgende volkomen kwadraten"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "fevzG8TjAYRbMGEvxNen6EEGxhVZB8wczU55yjIDhd3HaVwg5eaBXEAEYW_SCW8b",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
