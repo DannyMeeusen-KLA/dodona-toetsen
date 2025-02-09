@@ -1,7 +1,4 @@
 - tab: "tussen2kwadraten"
-  config:
-    stdout:
-      ignoreWhitespace: true
   testcases:
     - stdin: "3"
       stdout: "Tussen 1 en 2"
