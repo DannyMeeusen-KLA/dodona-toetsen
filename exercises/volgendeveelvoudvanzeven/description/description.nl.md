@@ -2,7 +2,7 @@ De gebruiker geeft een deeltal in én een deler (beiden gehele getallen).
 
 Het programma berekent het eerstvolgende gehele getal dat  
 - groter is dan het ingebrachte deeltal, én  
-- een veelvoud is van de ingebrachte deler.  
+- een veelvoud is van 7 én de ingebrachte deler.  
   
 Het programma drukt dit getal af.  
   
