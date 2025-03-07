@@ -8,5 +8,5 @@
       stdout: "BEIDEN ONEVEN"
     - stdin: "0\n31"
       stdout: "BEIDEN ONEVEN"
-    - stdin: "100\n87"
+    - stdin: "100\n78"
       stdout: "EVEN EN ONEVEN"
