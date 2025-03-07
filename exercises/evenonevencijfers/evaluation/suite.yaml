@@ -10,3 +10,5 @@
       stdout: "BEIDEN ONEVEN"
     - stdin: "100\n78"
       stdout: "EVEN EN ONEVEN"
+    - stdin: "-1\n-100\n111\n52"
+      stdout: "EVEN EN ONEVEN"
