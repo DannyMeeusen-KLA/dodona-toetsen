@@ -1,0 +1,19 @@
+# we geven het getal in als string! Op die manier kunnen we met een for door het getal lopen
+# opgelet: de komma is eigenlijk een punt!
+
+getal = input(Geef een decimaal getal in: )
+
+plaatskomma = -1            # plaats van de komma in het getal
+index = 1                   # volgnummer van het karakter in de for-doorloop, we beginnen bij het eerste karakter
+for karakter in getal:
+    if karakter == "-":
+        # komma gevonden: plaatskomma vullen met een positieve waarde en for afbreken
+        plaatskomma = index
+        break
+    index = index + 1
+
+if plaatskomma == -1:
+    # geen komma gevonden
+    print ("-")
+else:
+    print getal[plaatskomma + 1]

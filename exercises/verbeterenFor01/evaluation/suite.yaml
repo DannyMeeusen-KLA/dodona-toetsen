@@ -1,0 +1,12 @@
+- tab: "verbeterenFor01"
+  testcases:
+    - stdin: "6.789"
+      stdout: "7"
+    - stdin: "-1.2345"
+      stdout: "2"
+    - stdin: "0.5"
+      stdout: "5"
+    - stdin: "123"
+      stdout: "-"
+    - stdin: "9.8765432109876543210"
+      stdout: "8"
