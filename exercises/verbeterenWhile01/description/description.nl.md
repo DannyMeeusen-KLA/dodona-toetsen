@@ -1,5 +1,5 @@
 Je krijgt een oplossing van onderstaande opgave, jammer genoeg met syntax- en/of logische fouten.  
-Test het programma in de sandbox, en corrigeer de fouten.  
+Test het programma in de sandbox, corrigeer de fouten en dien je gecorrigeerde oplossing in.  
 
 De gebruiker kan twee getallen ingeven: de onder- en bovengrens van een gesloten interval.  
 Het programma toont alle veelvouden van 4 tussen deze onder- en een bovengrens.  
