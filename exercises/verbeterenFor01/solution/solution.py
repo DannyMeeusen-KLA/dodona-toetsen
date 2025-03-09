@@ -6,7 +6,7 @@ getal = input('Geef een decimaal getal in: ')
 plaatskomma = -1            # plaats van de komma in het getal
 index = 0                   # volgnummer van het karakter in de for-doorloop
 for karakter in getal:
-    if karakter == "-":
+    if karakter == ".":
         # komma gevonden: plaatskomma vullen met een positieve waarde en for afbreken
         plaatskomma = index
         break
