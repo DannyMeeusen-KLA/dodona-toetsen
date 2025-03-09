@@ -1,0 +1,7 @@
+onder = input('Geef de ondergrens: ')
+boven = input('Geef de ondergrens: ')
+
+while onder <= boven:
+    if onder % 4 = 0:
+        print (onder, end=' ')
+    onder + 1

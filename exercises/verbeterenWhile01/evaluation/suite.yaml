@@ -1,0 +1,25 @@
+- tab: "verbeterenWhile01"
+  config:
+    stdout:
+      ignoreWhitespace: true
+  testcases:
+    - stdin: "6\n16"
+      stdout: "8 12 16 "
+    - stdin: "61\n67"
+      stdout: "64 "
+    - stdin: "-5\n22"
+      stdout: "-4 0 4 8 12 16 20 "
+    - stdin: "27\n57"
+      stdout: "28 32 36 40 44 48 52 56 "
+    - stdin: "-9\n4"
+      stdout: "-8 -4 0 4 "
+    - stdin: "100\n8"
+      stdout: "100 101 102 103 104 105 106 107 "
+    - stdin: "9\n1"
+      stdout: ""
+    - stdin: "100\n108"
+      stdout: "100 104 108 "
+    - stdin: "100008\n100008"
+      stdout: "100008 "
+    - stdin: "-67\n-59"
+      stdout: "-64 -60 "
