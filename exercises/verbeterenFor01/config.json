@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "First decimal character",
-      "nl": "Het eerste getal na de komma"
+      "en": "Correct the given solution (for 01)",
+      "nl": "Corrigeer de gegeven oplossing (for 01)"
     }
   },
   "evaluation": {
