@@ -1,0 +1,12 @@
+- tab: "verbeterenFor02"
+  testcases:
+    - stdin: "5 4 3 8 -1"
+      stdout: "4 is kleiner dan zijn voorganger.\n3 is kleiner dan zijn voorganger.\n8 is groter dan zijn voorganger.\n-1 is kleiner dan zijn voorganger.\n"
+    - stdin: "-1 -1 1 22 3"
+      stdout: "-1 is gelijk aan zijn voorganger.\n1 is groter dan zijn voorganger.\n22 is groter dan zijn voorganger.\n3 is kleiner dan zijn voorganger.\n"
+    - stdin: "0 0 1 -22 3"
+      stdout: "0 is gelijk aan zijn voorganger.\n1 is groter dan zijn voorganger.\n-22 is kleiner dan zijn voorganger.\n3 is groter dan zijn voorganger.\n"
+    - stdin: "5 44 333 2222 11111"
+      stdout: "44 is groter dan zijn voorganger.\n333 is groter dan zijn voorganger.\n2222 is groter dan zijn voorganger.\n11111 is groter dan zijn voorganger.\n"
+    - stdin: "7 7 7 77 7"
+      stdout: "7 is gelijk aan zijn voorganger.\n7 is gelijk aan zijn voorganger.\n77 is groter dan zijn voorganger.\n7 is kleiner dan zijn voorganger.\n"
