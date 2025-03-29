@@ -13,6 +13,6 @@ Dat geeft volgend overzicht:
   
 Schrijf een functie `dartsWorp` die de notatie van de plaats waar de pijl terechtkomt, binnenkrijgt en daaruit het aantal behaalde punten teruggeeft.  
 Je functie krijgt dus als invoer een tekst binnen ("BULL", "SBULL", "D20", "T8", "17", ...) en geeft als uitvoerwaarde de waarde van de worp als integer terug.  
-Omdat je in sommige gevallen de eerste letter (een "T" of een "D") uit de invoerparameter moet verwijderen, krijg je nog wat info cadeau:  
-- een woord kan je beschouwen als een lijst. De eerste letter van dat woord is dan het eerste element van de lijst en kan je lezen als **[0]**. Bijvoorbeeld: als de variabele *school* de waarde **KLA** heeft, dan is *school[0]* gelijk aan de letter *K*.   
+Omdat je in sommige gevallen de eerste letter (een "T" of een "D") uit de invoerparameter moet verwijderen om de sectorwaarde over te houden, krijg je nog wat info cadeau:  
+- een woord kan je beschouwen als een lijst. De eerste letter van dat woord is dan het eerste element van de lijst en kan je lezen als **[0]**. Bijvoorbeeld: als de variabele *school* de waarde **KLA** heeft, dan is *school[0]* gelijk aan de letter **K**.   
 - je krijgt een functie cadeau die een woord teruggeeft zonder de eerste letter. Deze functie heeft de naam `extractPos2` en zal, bijvoorbeeld, als de invoerparameter gelijk is aan *T20* de waarde *20* teruggeven.  
