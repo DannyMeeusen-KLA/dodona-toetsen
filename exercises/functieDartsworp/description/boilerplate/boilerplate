@@ -1,0 +1,5 @@
+def extractPos2 (in_worp):
+    return in_worp[1:]
+
+def dartsWorp (...):
+
