@@ -1,18 +1,18 @@
 - tab: "dartsworp"
   testcases:
-    - stdin: "BULL"
-      stdout: "50"
-    - stdin: "SBULL"
-      stdout: "25"
-    - stdin: "T12"
-      stdout: "36"
-    - stdin: "D11"
-      stdout: "22"
-    - stdin: "17"
-      stdout: "17"
-    - stdin: "5"
-      stdout: "5"
-    - stdin: "T9"
-      stdout: "27"
-    - stdin: "D7"
-      stdout: "14"
+    - expression: 'dartsWorp ("BULL")'
+      return: 50
+    - expression: 'dartsWorp ("SBULL")'
+      return: 25
+    - expression: 'dartsWorp ("T12")'
+      return: 36
+    - expression: 'dartsWorp ("D11")'
+      return: 33
+    - expression: 'dartsWorp ("17")'
+      return: 17
+    - expression: 'dartsWorp ("5")'
+      return: 5
+    - expression: 'dartsWorp ("T9")'
+      return: 27
+    - expression: 'dartsWorp ("D7")'
+      return: 14
