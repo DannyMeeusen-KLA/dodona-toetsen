@@ -7,7 +7,7 @@
     - expression: 'dartsWorp ("T12")'
       return: 36
     - expression: 'dartsWorp ("D11")'
-      return: 33
+      return: 22
     - expression: 'dartsWorp ("17")'
       return: 17
     - expression: 'dartsWorp ("5")'
