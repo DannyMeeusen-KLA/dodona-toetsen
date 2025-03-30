@@ -4,3 +4,23 @@
       return: "Antwerpen"
     - expression: 'postcode ("6000")'
       return: "ongeldig"
+    - expression: 'postcode ("1000")'
+      return: "ongeldig"
+    - expression: 'postcode ("1600")'
+      return: "Vlaams-Brabant"
+    - expression: 'postcode ("3000")'
+      return: "Vlaams-Brabant"
+    - expression: 'postcode ("3500")'
+      return: "Limburg"
+    - expression: 'postcode ("4000")'
+      return: "ongeldig"
+    - expression: 'postcode ("8000")'
+      return: "West-Vlaanderen"
+    - expression: 'postcode ("9000")'
+      return: "Oost-Vlaanderen"
+    - expression: 'postcode ("9999")'
+      return: "Oost-Vlaanderen"
+    - expression: 'postcode ("10000")'
+      return: "ongeldig"
+    - expression: 'postcode ("-2000")'
+      return: "ongeldig"
