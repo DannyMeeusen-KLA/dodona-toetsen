@@ -16,4 +16,10 @@ Je mag er van uitgaan dat de invoerparameter numeriek is, maar het kan wel zijn 
 ```console?lang=python&prompt=>>>
 >>> postcode("2018")
 Antwerpen
+>>> postcode("1200")
+ongeldig
+>>> postcode("3500")
+Limburg
+>>> postcode("8500")
+West-Vlaanderen
 ```
