@@ -1,0 +1,15 @@
+{
+    "description": {
+      "names": {
+        "en": "Function that returns the Flemish province based on the postal code",
+        "nl": "Functie die de Vlaamse provincie teruggeeft op basis van de postcode"
+      }
+    },
+    "labels": [
+      "template"
+    ],
+    "internals": {
+      "token": "qpT6ifkhSj2Xj2XRKt5MCQUsMnw-t2tuqarvIuFk7Xs9h6XDJvvbmUnCczmUqXsp",
+      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+    }
+  }

@@ -1,0 +1,6 @@
+- tab: "postcode"
+  testcases:
+    - expression: 'postcode ("2018")'
+      return: "Antwerpen"
+    - expression: 'postcode ("6000")'
+      return: "ongeldig"
