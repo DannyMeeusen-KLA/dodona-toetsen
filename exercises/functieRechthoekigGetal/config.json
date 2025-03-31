@@ -1,0 +1,15 @@
+{
+    "description": {
+      "names": {
+        "en": "Function that checks whether a natural number can be written as a product of two integers ",
+        "nl": "Functie die nakijkt of een natuurlijk getal een rechthoekig getal is"
+      }
+    },
+    "labels": [
+      "template"
+    ],
+    "internals": {
+      "token": "79CZ6uXXq2SH4jGW7GjRN5gnbrXMZZa3zBaBJy4h37nEj7RW8v3ybMtyawkqvYUF",
+      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+    }
+  }

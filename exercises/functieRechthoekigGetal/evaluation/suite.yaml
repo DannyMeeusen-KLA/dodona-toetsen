@@ -1,0 +1,26 @@
+- tab: "isRechthoekig"
+  testcases:
+    - expression: 'isRechthoekig (6)'
+      return: True
+    - expression: 'isRechthoekig (2)'
+      return: True
+    - expression: 'isRechthoekig (3)'
+      return: False
+    - expression: 'isRechthoekig (0)'
+      return: False
+    - expression: 'isRechthoekig (-2)'
+      return: False
+    - expression: 'isRechthoekig (12)'
+      return: True
+    - expression: 'isRechthoekig (10)'
+      return: False
+    - expression: 'isRechthoekig (20)'
+      return: True
+    - expression: 'isRechthoekig (30)'
+      return: True
+    - expression: 'isRechthoekig (42)'
+      return: True
+    - expression: 'isRechthoekig (10000)'
+      return: False
+    - expression: 'isRechthoekig (10100)'
+      return: True
