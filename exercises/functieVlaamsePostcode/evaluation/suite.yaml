@@ -22,5 +22,7 @@
       return: "Oost-Vlaanderen"
     - expression: 'postcode ("10000")'
       return: "ongeldig"
+    - expression: 'postcode ("20000")'
+      return: "ongeldig"
     - expression: 'postcode ("-2000")'
       return: "ongeldig"
