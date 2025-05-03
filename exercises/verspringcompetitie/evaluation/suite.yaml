@@ -2,3 +2,11 @@
   testcases:
     - stdin: "3\n-1\n-1\n256\n303\n233\n-1\n306\n-1\n-1"
       stdout: "De verste sprong bedroeg 306 cm.\nDe minst verre sprong bedroeg 233 cm."
+    - stdin: "1\n-1\n-1\n256"
+      stdout: "De verste sprong bedroeg 256 cm.\nDe minst verre sprong bedroeg 256 cm."
+    - stdin: "1\n325\n-1\n-1"
+      stdout: "De verste sprong bedroeg 325 cm.\nDe minst verre sprong bedroeg 325 cm."
+    - stdin: "2\n528\n528\n526\n528\n-1\n-1"
+      stdout: "De verste sprong bedroeg 528 cm.\nDe minst verre sprong bedroeg 526 cm."
+    - stdin: "5\n588\n628\n636\n548\n685\n-1\n653\n599\n-1\n606\n-1\n488\n528\n528\n526"
+      stdout: "De verste sprong bedroeg 685 cm.\nDe minst verre sprong bedroeg 488 cm."
