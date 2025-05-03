@@ -1,0 +1,19 @@
+{
+    "description": {
+      "names": {
+        "en": "Long jump competition",
+        "nl": "Verspringcompetitie"
+      }
+    },
+    "evaluation": {
+      "handler": "tested",
+      "test_suite": "suite.yaml"
+    },
+    "programming_language": "python",
+    "access": "private",
+    "internals": {
+      "token": "agKQEn36HXrXufb5ckfWAtaqdY4Kd7zVnCtCUxqSNkNNxwCzbTuURx6hq-NwCqC_",
+      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+    },
+    "labels": []
+  }
