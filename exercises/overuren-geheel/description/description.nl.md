@@ -15,7 +15,8 @@ Simona verdiende vandaag 77 euro.
 ```
 
 ### Voorbeeld 2
-In dit voorbeeld werkt Simona meer dan 8 uur. Voor de eerste 8 uur krijgt ze 8 * 11 = 88 euro betaald. Voor de twee extra uren, krijgt ze 2 * 16 = 32 euro betaald.  
+In dit voorbeeld werkt Simona meer dan 8 uur. Voor de eerste 8 uur krijgt ze 8 * 11 = 88 euro betaald.  
+Voor de twee extra uren, krijgt ze 2 * 16 = 32 euro betaald.  
 Samen krijgt ze dus 88 + 32 = 120 euro.
 ```console?lang=python&prompt=>>>
 >>> 10

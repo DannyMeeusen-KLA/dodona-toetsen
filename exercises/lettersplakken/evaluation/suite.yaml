@@ -1,0 +1,8 @@
+- tab: "letters plakken"
+  testcases:
+    - stdin: "a\nb\ncd\ne\fgh\ni\n"
+      stdout: "abei"
+    - stdin: "K\noninklijk\nL\nyceum\nA\nntwerpen\n"
+      stdout: "KLA"
+    - stdin: "examen\ne\nx\na\nm\ne\nn\n"
+      stdout: "examen"
