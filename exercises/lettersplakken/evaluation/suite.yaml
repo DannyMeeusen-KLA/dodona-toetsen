@@ -1,6 +1,6 @@
 - tab: "letters plakken"
   testcases:
-    - stdin: "a\nb\ncd\ne\fgh\ni\n\n"
+    - stdin: "a\nb\ncd\ne\ngh\ni\n\n"
       stdout: "abei"
     - stdin: "K\noninklijk\nL\nyceum\nA\nntwerpen\n\n"
       stdout: "KLA"
