@@ -2,7 +2,8 @@ In dit programma blijft de gebruiker letters of woorden invoeren tot hij een leg
 Als de gebruiker één letter invoert, wordt deze letter aan de uitvoerstring "geplakt".  
 Als de invoer meer dan één karakter lang is, dan wordt deze invoer NIET aan de uitvoerstring toegevoegd.  
   
-Om de lengte van de invoer te bekijken, kan je de functie *len()* gebruiken. Zo is *len("a")* gelijk aan 1.  
+Om de lengte van de invoer te bekijken, kan je de functie *len()* gebruiken.  
+Zo is *len("a")* gelijk aan 1.  
 *len("abc")* is dan weer gelijk aan 3.  
 Gebruik een while die stopt als de lengte van de invoer gelijk is aan 0.  
   
