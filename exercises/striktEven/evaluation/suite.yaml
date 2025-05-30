@@ -1,0 +1,12 @@
+- tab: "Strikt even"
+  testcases:
+    - stdin: "6"
+      stdout: "2\n4\n6"
+    - stdin: "9"
+      stdout: "2\n4\n6\n8"
+    - stdin: "1"
+      stdout: "De bovengrens is te laag."
+    - stdin: "0"
+      stdout: "De bovengrens is te laag."
+    - stdin: "2"
+      stdout: "2"
