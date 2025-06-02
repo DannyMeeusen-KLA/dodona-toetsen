@@ -12,13 +12,13 @@ Bekijk de voorbeelden.
 In dit voorbeeld brengt Marc minder dan 1000 euro naar de bank. De rente bedraagt 10% van het volledige bedrag, in dit geval 800 * 0.1 euro = 80 euro.
 ```console?lang=python&prompt=>>>
 >>> 800
-Marc krijgt 80 euro aan rente.
+Marc krijgt 80.0 euro aan rente.
 ```
 
 ### Voorbeeld 2
 In dit voorbeeld brengt Marc meer dan 1000 euro naar de bank. De rente bedraagt 10% van de eerste 1000 euro, dit is 100 euro.  
-Daar bovenop komt nog 20% op het deel boven de 1000 euro. In dit geval: 20% van 200 euro, dit is 40 euro. Samen is dit 140 euro. 
+Daar bovenop komt nog 20% op het deel boven de 1000 euro. In dit geval: 20% van 205 euro, dit is 20.5 euro. Samen is dit 140.5 euro. 
 ```console?lang=python&prompt=>>>
->>> 1200
-Marc krijgt 140 euro aan rente. 
+>>> 1205
+Marc krijgt 140.5 euro aan rente. 
 ```
