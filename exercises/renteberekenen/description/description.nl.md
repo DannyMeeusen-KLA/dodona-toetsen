@@ -17,9 +17,9 @@ Marc krijgt 80.0 euro aan rente.
 
 ### Voorbeeld 2
 In dit voorbeeld brengt Marc meer dan 1000 euro naar de bank. De rente bedraagt 10% van de eerste 1000 euro, dit is 100 euro.  
-Daar bovenop komt nog 20% op het deel boven de 1000 euro. In dit geval: 20% van 205 euro, dit is 20.5 euro.  
-Samen is dit 140.5 euro. 
+Daar bovenop komt nog 20% op het deel boven de 1000 euro. In dit geval: 20% van 205 euro, dit is 41 euro.  
+Samen is dit 141 euro. 
 ```console?lang=python&prompt=>>>
 >>> 1205
-Marc krijgt 140.5 euro aan rente. 
+Marc krijgt 141.0 euro aan rente. 
 ```
