@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Negative multiples of ten",
+      "nl": "Negatieve tientallen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "shTX9zUmhMqJ2q4AFrhPTFTTpZERicivCV7IE-FjnKs8zEpKqSVKXN4YP3dcaYH2",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}

@@ -1,0 +1,12 @@
+- tab: "Negatieve tientallen"
+  testcases:
+    - stdin: "-30"
+      stdout: "-30\n-20\n-10\n0"
+    - stdin: "-10"
+      stdout: "-10\n0"
+    - stdin: "1"
+      stdout: "De ondergrens is te hoog."
+    - stdin: "10"
+      stdout: "De ondergrens is te hoog."
+    - stdin: "0"
+      stdout: "0"
