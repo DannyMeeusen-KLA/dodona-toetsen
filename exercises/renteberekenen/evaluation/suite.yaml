@@ -1,0 +1,12 @@
+- tab: "rente"
+  testcases:
+    - stdin: "1000"
+      stdout: "Marc krijgt 100 euro aan rente."
+    - stdin: "900"
+      stdout: "Marc krijgt 90 euro aan rente."
+    - stdin: "10"
+      stdout: "Marc krijgt 1 euro aan rente."
+    - stdin: "1010"
+      stdout: "Marc krijgt 102 euro aan rente."
+    - stdin: "2000"
+      stdout: "Marc krijgt 300 euro aan rente."

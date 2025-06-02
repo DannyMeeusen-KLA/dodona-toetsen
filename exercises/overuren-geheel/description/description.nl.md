@@ -2,7 +2,7 @@ Simona heeft een vakantiejob. Haar loon wordt als volgt berekend:
 - 11 euro per uur voor de eerste 8 uur.  
 - elk bijkomend uur (groter dan 8) wordt als overuur betaald, ze krijgt er 16 euro per uur voor.  
   
-Het programma vraagt hoeveel uren Simona vangvandaag gewerkt heeft. Dat aantal is een geheel getal.
+Het programma vraagt hoeveel uren Simona vandaag gewerkt heeft. Dat aantal is een geheel getal.
 Daarna berekent het programma hoeveel euro ze vandaag verdiend heeft en drukt dit bedrag af in een volzin.  
 Bekijk de voorbeelden.  
     
