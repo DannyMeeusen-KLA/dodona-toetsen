@@ -9,7 +9,7 @@ Bekijk de voorbeelden.
 
 ### Voorbeeld 1
 In dit voorbeeld brengt Marc minder dan 1000 euro naar de bank.  
-De rente bedraagt 10% van het volledige bedrag, in dit geval 800 * 0.1 euro = 80 euro.
+De rente bedraagt 10% van het volledige bedrag, in dit geval 800 * 0.1 = 80 euro.
 ```console?lang=python&prompt=>>>
 >>> 800
 Marc krijgt 80.0 euro aan rente.
