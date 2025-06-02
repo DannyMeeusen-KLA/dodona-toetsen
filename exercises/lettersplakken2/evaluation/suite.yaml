@@ -5,4 +5,4 @@
     - stdin: "KAB\nABVV\nBtw\nm\nABC\nAntwerpen\n\n"
       stdout: "KAB Btw ABC "
     - stdin: "AB\ne\nx\na\nm\ne\nn\n\n"
-      stdout: ""
+      stdout: "\n"
