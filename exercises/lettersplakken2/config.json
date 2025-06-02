@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Glue 3-letter-abbreviations together",
+      "nl": "Drieletterafkortingen aan elkaar plakken"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "AQpnifJ_Hz7Qsx4fQfaycfsvrzrDST3BjxPJkdvITW3npUIbxUfEPVdu7jRUskYy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}

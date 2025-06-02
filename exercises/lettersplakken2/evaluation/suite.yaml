@@ -1,0 +1,8 @@
+- tab: "drieletterafkortingen plakken"
+  testcases:
+    - stdin: "KLA\nb\nPSG\ne\ngh\nCEO\n\n"
+      stdout: "KLA PSG CEO "
+    - stdin: "KAB\nABVV\nBtw\nm\nABC\nAntwerpen\n\n"
+      stdout: "KAB Btw ABC "
+    - stdin: "AB\ne\nx\na\nm\ne\nn\n\n"
+      stdout: ""
