@@ -17,7 +17,7 @@ Het programma drukt achtereenvolgens het volgende af:
 ```console?lang=python&prompt=>>>
 >>> 2
 >>> 4
->>> 3.6
+>>> 3.5
 2
 6
 3.5

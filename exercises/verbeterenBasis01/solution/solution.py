@@ -1,9 +1,9 @@
 # In dit programma zitten veel fouten. 
 # Wij tellen al zeker 8 nodige aanpassingen die er moeten gebeuren vooraleer het perfect werkt.
 
-getal1 = int(input(Geef een geheel getal in:))              # int toegevoegd
-getal2 = int(input(Geef een geheel getal in:))              # int toegevoegd
-getal3 = float(input(Geef een decimaal getal in:))          # float toegevoegd
+getal1 = int(input("Geef een geheel getal in: "))              # int toegevoegd
+getal2 = int(input("Geef een geheel getal in: "))              # int toegevoegd
+getal3 = float(input("Geef een decimaal getal in: "))          # float toegevoegd
 
 # Druk het eerste getal af
 print (getal1)                                              # print aan kantlijn gezet en getal1 met kleine letter
