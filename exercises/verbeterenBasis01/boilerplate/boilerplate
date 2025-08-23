@@ -1,0 +1,23 @@
+# In dit programma zitten veel fouten. 
+# Wij tellen al zeker 8 nodige aanpassingen die er moeten gebeuren vooraleer het perfect werkt.
+
+getal1 = input(Geef een geheel getal in:)
+getal2 = input(Geef een geheel getal in:)
+getal3 = input(Geef een decimaal getal in:)
+
+# Druk het eerste getal af
+ print (Getal1)
+
+# Bereken de som van getal1 en getal2 en druk af
+getal1 + getal2 = som
+print (som)
+
+# Druk het derde getal af
+print ("getal3")
+
+# Bereken het product van de som en getal3, rond af tot op 1 cijfer na de komma en druk af
+product = som * getal3
+round(product, 1)
+print (product)
+
+
