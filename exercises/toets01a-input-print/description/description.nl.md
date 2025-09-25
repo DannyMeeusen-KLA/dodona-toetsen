@@ -19,7 +19,7 @@ De vader van David is 44 jaar oud.
 >>> 16
 De vader van Nisrine is 46 jaar oud.
 
->>> Remoc
+>>> Remco
 >>> 24
 De vader van Remco is 54 jaar oud.
 
