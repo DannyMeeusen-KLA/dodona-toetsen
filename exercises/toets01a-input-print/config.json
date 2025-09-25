@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "The father is thirty years older as his child",
+      "nl": "De vader is dertig jaar ouder dan zijn kind"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "XdVC-AxMkq6ypKi7RtQW7RkxVFRa-WGhAFV2BC7DNDs5r2QNyNGvEhzreQ77yjvg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
