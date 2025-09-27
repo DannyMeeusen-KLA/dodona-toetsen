@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "The age of the sister",
+      "nl": "De leeftijd van de zus"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "TdxWuaP5II5UIatCAWagutrmB-FyUc3XXrEdqDDN7qiz8KtmAKDf6cKq9UPDKuNM",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
