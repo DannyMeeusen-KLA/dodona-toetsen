@@ -1,0 +1,28 @@
+- tab: "Waarheidstabellen"
+  testcases:
+    - stdin: "Pepijn\n7"
+      stdout: "Pepijn heeft 13 waarheidstabellen gevuld."
+    - stdin: "Daan\n0"
+      stdout: "Daan heeft 6 waarheidstabellen gevuld."
+    - stdin: "Merel\n1"
+      stdout: "Merel heeft 7 waarheidstabellen gevuld."
+    - stdin: "Stijn\n4"
+      stdout: "Stijn heeft 10 waarheidstabellen gevuld."
+    - stdin: "Charlotte\n6"
+      stdout: "Charlotte heeft 12 waarheidstabellen gevuld."
+    - stdin: "Aya\n2"
+      stdout: "Aya heeft 8 waarheidstabellen gevuld."
+    - stdin: "Mila\n3"
+      stdout: "Mila heeft 9 waarheidstabellen gevuld."
+    - stdin: "Marie\n8"
+      stdout: "Marie heeft 14 waarheidstabellen gevuld."
+    - stdin: "Yusef\n5"
+      stdout: "Yusef heeft 11 waarheidstabellen gevuld."
+    - stdin: "Alan\n9"
+      stdout: "Alan heeft 15 waarheidstabellen gevuld."
+
+
+
+
+
+

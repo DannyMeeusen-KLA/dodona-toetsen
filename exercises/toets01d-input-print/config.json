@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Completing truth tables",
+      "nl": "Waarheidstabellen vullen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "UsMgQHV2QcYjhUeurM4xNJSkM9WbQ5YIQqPiiaZyx3tYYFk6ur95yHJqHmhkuePE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
