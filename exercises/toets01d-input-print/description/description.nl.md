@@ -1,5 +1,5 @@
 Op vrijdagnamiddag vult mr. Stroobants tijdens de les logica klassikaal 6 waarheidstabellen. Hij vraagt zijn leerlingen om in het weekend nog te oefenen daarop.  
-Op maandag wil hij weten hoeveel waarheidstabellen elke leerling gemaakt heeft, de 6 tabellen van vrijdag inbegrepen.  
+Op maandag wil hij berekenen hoeveel waarheidstabellen elke leerling gemaakt heeft, de 6 tabellen van vrijdag inbegrepen.  
 
 Dit programma vraagt om in te brengen:  
 - de naam van de leerling (als string/tekst)  
