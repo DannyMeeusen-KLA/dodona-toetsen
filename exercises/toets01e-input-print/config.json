@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "On my way to the Ardeche",
+      "nl": "Onderweg naar de Ardeche"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "hN-fjsUezHV8J2BmSa_34BdpaBSUag4Zgg9UsqXnK5q43_K36QpDRZ8tMuwU23eC",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}

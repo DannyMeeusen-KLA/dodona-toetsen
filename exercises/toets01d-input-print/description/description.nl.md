@@ -2,10 +2,11 @@ Op vrijdagnamiddag vult mr. Stroobants tijdens de les logica klassikaal 6 waarhe
 Op maandag wil hij weten hoeveel waarheidstabellen elke leerling gemaakt heeft, de 6 tabellen van vrijdag inbegrepen.  
 
 Dit programma vraagt om in te brengen:  
-- de naam van de leerling  
-- het aantal waarheidstabellen dat de leerling in het weekend maakte  
+- de naam van de leerling (als string/tekst)  
+- het aantal waarheidstabellen dat de leerling in het weekend maakte (als integer/getal)  
   
 Vervolgens drukt het programma een volzin af die het totaal aantal gemaakte waarheidstabellen weergeeft.  
+Het aantal weekendoefeningen moet als getal worden ingelezen omdat er mee gerekend zal worden: er dient 6 bij opgeteld te worden.  
 Bekijk de voorbeelden om het exacte formaat van de volzin te kennen.  
 
 ### Voorbeelden
