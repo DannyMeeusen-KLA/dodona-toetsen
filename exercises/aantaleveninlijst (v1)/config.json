@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Number of even figures in a list (version 1)",
-      "nl": "Aantal even getallen uit een lijst (versie 1)"
+      "en": "Number of even figures in a list",
+      "nl": "Aantal even getallen uit een lijst"
     }
   },
   "evaluation": {
