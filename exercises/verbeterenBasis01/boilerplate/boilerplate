@@ -1,7 +1,7 @@
 # In dit programma zitten veel fouten. 
 # Wij tellen al zeker 8 nodige aanpassingen die er moeten gebeuren vooraleer het perfect werkt.
 
-getal1 = input(Geef een geheel getal in:)
+getal1 = input(Geef een geheel getal in:
 getal2 = input(Geef een geheel getal in:)
 getal3 = input(Geef een decimaal getal in:)
 
