@@ -13,7 +13,7 @@
     - stdin: "-5"
       stdout: "-4"
     - stdin: "1234"
-      stdout: "1235"
+      stdout: "1236"
     - stdin: "-135"
       stdout: "-134"
     - stdin: "29"
