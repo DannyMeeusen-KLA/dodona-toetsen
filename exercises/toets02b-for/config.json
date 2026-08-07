@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Get the color out of the rainbow",
+      "nl": "Haal de juiste kleur uit de regenboog"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "public",
+  "internals": {
+    "token": "MqcehQ3n2XgV_vfgNWRTX7bpAsyAajWvPGxjF27ZgKJm-ZgPsMbTKFw9EhV2Ahbf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
