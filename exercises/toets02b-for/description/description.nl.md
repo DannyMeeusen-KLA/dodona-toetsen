@@ -3,8 +3,8 @@ Je krijgt een lijstvariabele cadeau die de 7 kleuren van de regenboog bevat.
 Het programma drukt eerst alle kleuren af op een aparte lijn.  
 Dat <u><b>moet</b></u> gebeuren door gebruik te maken van een *for*- of een *while*-loop.  
 Vervolgens vraagt het programma aan de gebruiker om een getal tussen 1 en 7 in te geven (grenswaarden inbegrepen).  
-Daarna dient het programma de kleur op deze positie uit de tabel te halen en nogmaal af te drukken in een volzin.  
-Het bepalen van deze kleur mag dus niet gebeuren via een (lange) if-then-else.  
+Daarna dient het programma de kleur op deze positie nogmaals af te drukken in een volzin.  
+Het bepalen van deze kleur mag niet gebeuren via een (lange) if-then-else, maar wel door het juiste element uit de tabel te halen.  
 Als het getal kleiner is dan 1 of groter dan 7, dan verschijnt een foutmelding. Bekijk de voorbeelden voor de juiste uitvoer.  
   
   
