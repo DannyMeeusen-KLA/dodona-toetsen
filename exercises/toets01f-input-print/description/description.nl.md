@@ -6,7 +6,7 @@ Dit programma vraagt om in te brengen:
 - het aantal sponsors dat de leerling heeft verzameld  
 - het bedrag dat iedere sponsor zal betalen (let op: dit is een decimaal getal)  
   
-Vervolgens drukt het programma een volzin af die het totaal aantal euro's vermeldt dat de leerling bij elkaar heeft gelopen.  
+Vervolgens drukt het programma een volzin af die het totaal aantal euro's vermeldt dat de leerling bij elkaar heeft gelopen. Dit bedrag moet worden afgerond tot op 1 cijfer na de komma.   
 Bekijk de voorbeelden om het exacte formaat van de volzin te kennen. Let op: er staat een punt achter het totaalbedrag, niet voorafgegaan door een spatie!  
 
 ### Voorbeelden
@@ -19,12 +19,12 @@ Het aantal euros dat Marie inzamelde, bedraagt 19.2.
 
 >>> Ilias
 >>> 7
->>> 2.1
-Het aantal euros dat Ilias inzamelde, bedraagt 14.7.  
+>>> 2.07
+Het aantal euros dat Ilias inzamelde, bedraagt 14.5.  
 
 >>> Lou
->>> 12
->>> 3.05
-Het aantal euros dat Lou inzamelde, bedraagt 36.6.  
+>>> 11
+>>> 3.03
+Het aantal euros dat Lou inzamelde, bedraagt 33.3.  
 
 ```
