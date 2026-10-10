@@ -1,4 +1,4 @@
-We willen weten hoeveel geld een leerling heeft ingezameld voor de sponsorloop van vrijdag 13 oktober 2026.  
+We willen weten hoeveel geld een leerling heeft ingezameld voor de sponsorloop van vrijdag 13 november 2026.  
 De leerling heeft een aantal sponsors die allemaal voor hetzelfde bedrag sponsoren.  
 
 Dit programma vraagt om in te brengen:  
