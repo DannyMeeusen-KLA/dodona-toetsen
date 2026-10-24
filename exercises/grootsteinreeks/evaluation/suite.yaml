@@ -1,4 +1,4 @@
-- tab: "grootste en kleinse van 5 getallen"
+- tab: "grootste en kleinste van 5 getallen"
   testcases:
     - stdin: "65\n65\n65\n65\n65"
       stdout: "Het kleinste getal is 65, het grootste getal is 65."
