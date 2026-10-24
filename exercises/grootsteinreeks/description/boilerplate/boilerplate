@@ -1,0 +1,11 @@
+kleinste = input('Geef het eerste getal: ')
+
+getal = input('Geef het tweede getal: ')
+if getal < kleinste
+    kleinste = getal
+
+getal = input('Geef het derde getal: ')
+if getal < kleinste
+    kleinste = getal
+
+print = ('Het kleinste getal is ', kleinste)
