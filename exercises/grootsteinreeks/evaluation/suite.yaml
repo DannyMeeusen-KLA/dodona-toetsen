@@ -1,0 +1,12 @@
+- tab: "grootste en kleinse van 5 getallen"
+  testcases:
+    - stdin: "65\n65\n65\n65\n65"
+      stdout: "Het kleinste getal is 65, het grootste getal is 65."
+    - stdin: "14\n68\n47\n28\n17"
+      stdout: "Het kleinste getal is 14, het grootste getal is 68."
+    - stdin: "-65\n-54\n8\n-48\n4"
+      stdout: "Het kleinste getal is -65, het grootste getal is 8."
+    - stdin: "5\n2\n7\n11\n4"
+      stdout: "Het kleinste getal is 2, het grootste getal is 11."
+    - stdin: "-1\n-4\n3\n2\n7"
+      stdout: "Het kleinste getal is -4, het grootste getal is 7."
