@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Different operators",
+      "nl": "Verschillende bewerkingen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "w8PZHw-Q4k_fASnJ5QxcuH-36xDzKg-6w77KRtcqQ6pAC3j7D2RvJC2ePepN8CuE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
