@@ -1,0 +1,13 @@
+- tab: "sec naar min en sec"
+  testcases:
+    - stdin: "145"
+      stdout: "2\n25"
+    - stdin: "18"
+      stdout: "0\n18"
+    - stdin: "77"
+      stdout: "1\n17"
+    - stdin: "1301"
+      stdout: "21\n41"
+    - stdin: "19457"
+      stdout: "324\n17"
+    
