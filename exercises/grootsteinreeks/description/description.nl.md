@@ -20,7 +20,7 @@ Het kleinste getal is 25, het grootste getal is 65.
 >>> -20
 >>> -35
 >>> -27
-Het kleinste getal is -35, het grootste getal is -25.
+Het kleinste getal is -35, het grootste getal is -20.
 >>> 80
 >>> 80
 >>> 80
